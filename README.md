@@ -1,18 +1,34 @@
-<div align="center">
+&lt;div align="center"&gt;
 
-<img src="assets/banner.png" width="100%" alt="17MC_JOKER38 Banner"/>
+&lt;!-- الصورة مع المسار الصحيح (المسافة = %20) --&gt;
+&lt;img src="assets/17MC_JOKER38%20Banner.png" width="100%" alt="17MC_JOKER38 Banner"/&gt;
+
+&lt;br&gt;&lt;br&gt;
 
 # 👋 Welcome to My GitHub
 
-<h1>17MC_JOKER38</h1>
+&lt;h1&gt;17MC_JOKER38&lt;/h1&gt;
 
-<h3>💻 Full Stack Developer</h3>
+&lt;h3&gt;💻 Full Stack Developer&lt;/h3&gt;
 
-<p>
+&lt;p&gt;
 Building modern, scalable, and high-performance web applications.
-</p>
+&lt;/p&gt;
 
-</div>
+&lt;!-- روابـط التواصل الاجتماعي --&gt;
+&lt;p&gt;
+  &lt;a href="https://github.com/17mcjoker38"&gt;
+    &lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/&gt;
+  &lt;/a&gt;
+  &lt;a href="#"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
+  &lt;/a&gt;
+  &lt;a href="#"&gt;
+    &lt;img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+&lt;/div&gt;
 
 ---
 
@@ -24,4 +40,3 @@ Building modern, scalable, and high-performance web applications.
 ⚡ Passionate about clean code
 🚀 Building modern web applications
 🎯 Goal: Become an Elite Software Engineer
-```
