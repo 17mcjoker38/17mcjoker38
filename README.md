@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**17mcjoker38/17mcjoker38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/banner.png" width="100%" alt="17MC_JOKER38 Banner"/>
 
-Here are some ideas to get you started:
+# 👋 Welcome to My GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>17MC_JOKER38</h1>
+
+<h3>💻 Full Stack Developer</h3>
+
+<p>
+Building modern, scalable, and high-performance web applications.
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```text
+💻 Full Stack Developer
+🧠 Always learning new technologies
+⚡ Passionate about clean code
+🚀 Building modern web applications
+🎯 Goal: Become an Elite Software Engineer
+```
