@@ -1,30 +1,33 @@
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img src="assets/banner.png" width="100%" alt="17MC_JOKER38 Banner"/&gt;
+<img src="assets/banner.png" width="100%" alt="Banner"/>
 
-&lt;br&gt;&lt;br&gt;
+<br><br>
 
-# 👋 Welcome to My GitHub
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub;I'm+17MC_JOKER38;Full+Stack+Developer;Building+Modern+Web+Apps)](https://git.io/typing-svg)
 
-&lt;h1&gt;17MC_JOKER38&lt;/h1&gt;
+<h1>17MC_JOKER38</h1>
 
-&lt;h3&gt;💻 Full Stack Developer&lt;/h3&gt;
+<h3>💻 Full Stack Developer</h3>
 
-&lt;p&gt;Building modern, scalable, and high-performance web applications.&lt;/p&gt;
+<p>Building modern, scalable, and high-performance web applications.</p>
 
-&lt;p&gt;
-  &lt;a href="https://github.com/17mcjoker38"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/&gt;
-  &lt;/a&gt;
-  &lt;a href="#"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
-  &lt;/a&gt;
-  &lt;a href="#"&gt;
-    &lt;img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p>
+  <a href="https://github.com/17mcjoker38">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-&lt;/div&gt;
+</div>
 
 ---
 
