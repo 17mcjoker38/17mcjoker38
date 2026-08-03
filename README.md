@@ -1,7 +1,6 @@
 &lt;div align="center"&gt;
 
-&lt;!-- الصورة مع المسار الصحيح (المسافة = %20) --&gt;
-&lt;img src="assets/17MC_JOKER38%20Banner.png" width="100%" alt="17MC_JOKER38 Banner"/&gt;
+&lt;img src="assets/banner.png" width="100%" alt="17MC_JOKER38 Banner"/&gt;
 
 &lt;br&gt;&lt;br&gt;
 
@@ -11,11 +10,8 @@
 
 &lt;h3&gt;💻 Full Stack Developer&lt;/h3&gt;
 
-&lt;p&gt;
-Building modern, scalable, and high-performance web applications.
-&lt;/p&gt;
+&lt;p&gt;Building modern, scalable, and high-performance web applications.&lt;/p&gt;
 
-&lt;!-- روابـط التواصل الاجتماعي --&gt;
 &lt;p&gt;
   &lt;a href="https://github.com/17mcjoker38"&gt;
     &lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/&gt;
